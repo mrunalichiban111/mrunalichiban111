@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f8f300e8-c561-4a4b-a500-3370ce596b0b)
+![image](https://github.com/user-attachments/assets/71612e16-1c93-4a9d-afe1-d2a3755b21ac)
+
 
 
 - 👋 Hi, I’m Mrunal Kulkarni
