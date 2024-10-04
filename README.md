@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c65509a5-f100-4d6f-8cc8-f103ba855d1f)
+![image](https://github.com/user-attachments/assets/f8f300e8-c561-4a4b-a500-3370ce596b0b)
+
 
 - 👋 Hi, I’m Mrunal Kulkarni
 - 👀 I’m interested in sleeping,coding and watching anime✨❤️
