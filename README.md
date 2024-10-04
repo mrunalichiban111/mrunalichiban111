@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c65509a5-f100-4d6f-8cc8-f103ba855d1f)
+
 - 👋 Hi, I’m Mrunal Kulkarni
 - 👀 I’m interested in sleeping,coding and watching anime✨❤️
 - 🌱 I’m currently learning Javascript and practicing CP
