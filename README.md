@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Javascript and practicing CP
 - 📫 How to reach me https://www.linkedin.com/in/mrunal-kulkarni-16b44b314/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can sing in japnese XD XD
+- ⚡ Fun fact: I can sing in japanese XD XD
 
 <!---
 mrunalichiban111/mrunalichiban111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
