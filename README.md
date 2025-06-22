@@ -2,7 +2,7 @@
 
 
 
-[⚠️ Suspicious Content] <h1 align="center">Hi 👋, I'm Mrunal Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm Mrunal Kulkarni</h1>
 <h3 align="center">I am a sophomore at IIIT Lucknow pursuing Btech in CSE + Business, I am also a Full-Stack Developer • Web3 & AI Enthusiast • Creative Technologist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunalichiban111&label=Profile%20views&color=0e75b6&style=flat" alt="mrunalichiban111" /> </p>
@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrunalichiban111&show_icons=true&locale=en" alt="mrunalichiban111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunalichiban111&" alt="mrunalichiban111" /></p>
+
 
